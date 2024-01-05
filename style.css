@@ -1,0 +1,13 @@
+#back {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 350px;
+    height: 80px;
+    background: linear-gradient(
+        to left bottom,
+        rgba(0, 0, 0, 0.8),
+        rgba(0, 0, 0, 0),
+        rgba(0, 0, 0, 0)
+    );
+}
